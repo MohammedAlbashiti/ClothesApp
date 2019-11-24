@@ -1,0 +1,7 @@
+{
+  "name": "clothesApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
